@@ -1,2 +1,3 @@
 # test-
-Markdown is a lightweight markup language that you can use to add formatting elements to plain-text documents. Created by **John Gruber** in 2004, markdown is now one of the worlds most popular markup languages.
+Markdown is a lightweight markup language that you can use to add formatting elements to plain-text documents. Created by John Gruber in 2004, markdown is now one of the worlds most popular markup languages.
+<a John Gruber="https://en.wikipedia.org/wiki/John_Gruber">click here</a>
